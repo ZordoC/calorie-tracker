@@ -1,0 +1,22 @@
+date,name,portion,custom,calories,carbs,protein,fat 
+2022-03-10,chicken-jambalaya,Small,None,517,35,29,27
+2022-03-10,chicken-jambalaya,Small,Low Carb,483,28,29,27
+2022-03-10,chicken-jambalaya,Small,High Carb,687,70,33,28
+2022-03-10,chicken-jambalaya,Small,High Protein,742,35,51,42
+2022-03-10,chicken-jambalaya,Small,Keto,492,17,26,35
+2022-03-10,chicken-jambalaya,Small,High Protein + Low Carb,708,28,51,42
+2022-03-10,chicken-jambalaya,Small,High Protein + High Carb,912,70,55,42
+2022-03-10,chicken-jambalaya,Regular,None,691,48,37,37
+2022-03-10,chicken-jambalaya,Regular,Low Carb,623,34,36,37
+2022-03-10,chicken-jambalaya,Regular,High Carb,861,83,41,38
+2022-03-10,chicken-jambalaya,Regular,High Protein,917,48,59,52
+2022-03-10,chicken-jambalaya,Regular,Keto,615,19,32,45
+2022-03-10,chicken-jambalaya,Regular,High Protein + Low Carb,849,34,58,51
+2022-03-10,chicken-jambalaya,Regular,High Protein + High Carb,1087,83,63,52
+2022-03-10,chicken-jambalaya,Large,None,966,68,50,52
+2022-03-10,chicken-jambalaya,Large,Low Carb,864,47,48,52
+2022-03-10,chicken-jambalaya,Large,High Carb,1136,103,53,53
+2022-03-10,chicken-jambalaya,Large,High Protein,1191,68,72,67
+2022-03-10,chicken-jambalaya,Large,Keto,808,25,43,59
+2022-03-10,chicken-jambalaya,Large,High Protein + Low Carb,1089,47,70,67
+2022-03-10,chicken-jambalaya,Large,High Protein + High Carb,1361,103,75,67

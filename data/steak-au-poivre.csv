@@ -1,0 +1,22 @@
+date,name,portion,custom,calories,carbs,protein,fat 
+2022-03-10,steak-au-poivre,Small,None,428,36,25,19
+2022-03-10,steak-au-poivre,Small,Low Carb,392,28,25,18
+2022-03-10,steak-au-poivre,Small,High Carb,607,76,30,20
+2022-03-10,steak-au-poivre,Small,High Protein,604,35,48,27
+2022-03-10,steak-au-poivre,Small,Keto,444,19,24,28
+2022-03-10,steak-au-poivre,Small,High Protein + Low Carb,568,27,47,27
+2022-03-10,steak-au-poivre,Small,High Protein + High Carb,783,76,52,29
+2022-03-10,steak-au-poivre,Regular,None,576,49,34,24
+2022-03-10,steak-au-poivre,Regular,Low Carb,522,36,32,24
+2022-03-10,steak-au-poivre,Regular,High Carb,755,89,38,26
+2022-03-10,steak-au-poivre,Regular,High Protein,752,49,56,33
+2022-03-10,steak-au-poivre,Regular,Keto,556,24,31,34
+2022-03-10,steak-au-poivre,Regular,High Protein + Low Carb,698,37,55,33
+2022-03-10,steak-au-poivre,Regular,High Protein + High Carb,931,89,61,35
+2022-03-10,steak-au-poivre,Large,None,799,65,46,36
+2022-03-10,steak-au-poivre,Large,Low Carb,727,50,44,36
+2022-03-10,steak-au-poivre,Large,High Carb,978,105,50,37
+2022-03-10,steak-au-poivre,Large,High Protein,975,65,68,45
+2022-03-10,steak-au-poivre,Large,Keto,725,29,42,45
+2022-03-10,steak-au-poivre,Large,High Protein + Low Carb,903,50,66,44
+2022-03-10,steak-au-poivre,Large,High Protein + High Carb,1154,105,73,46

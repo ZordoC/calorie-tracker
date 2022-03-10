@@ -1,0 +1,22 @@
+date,name,portion,custom,calories,carbs,protein,fat 
+2022-03-10,drunken-noodles,Small,None,433,41,27,18
+2022-03-10,drunken-noodles,Small,Low Carb,379,28,26,18
+2022-03-10,drunken-noodles,Small,High Carb,650,90,31,19
+2022-03-10,drunken-noodles,Small,High Protein,540,41,50,20
+2022-03-10,drunken-noodles,Small,Keto,394,12,25,28
+2022-03-10,drunken-noodles,Small,High Protein + Low Carb,442,29,49,15
+2022-03-10,drunken-noodles,Small,High Protein + High Carb,713,90,54,15
+2022-03-10,drunken-noodles,Regular,None,572,63,37,19
+2022-03-10,drunken-noodles,Regular,Low Carb,481,42,36,19
+2022-03-10,drunken-noodles,Regular,High Carb,753,104,41,20
+2022-03-10,drunken-noodles,Regular,High Protein,715,71,61,21
+2022-03-10,drunken-noodles,Regular,Keto,452,15,33,29
+2022-03-10,drunken-noodles,Regular,High Protein + Low Carb,588,42,59,21
+2022-03-10,drunken-noodles,Regular,High Protein + High Carb,860,104,64,21
+2022-03-10,drunken-noodles,Large,None,853,94,51,31
+2022-03-10,drunken-noodles,Large,Low Carb,690,58,48,31
+2022-03-10,drunken-noodles,Large,High Carb,1070,143,55,31
+2022-03-10,drunken-noodles,Large,High Protein,960,94,74,33
+2022-03-10,drunken-noodles,Large,Keto,634,24,45,40
+2022-03-10,drunken-noodles,Large,High Protein + Low Carb,797,58,71,32
+2022-03-10,drunken-noodles,Large,High Protein + High Carb,1177,143,78,33

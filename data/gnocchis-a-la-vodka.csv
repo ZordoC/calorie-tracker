@@ -1,0 +1,22 @@
+date,name,portion,custom,calories,carbs,protein,fat 
+2022-03-10,gnocchis-a-la-vodka,Small,None,376,35,27,13
+2022-03-10,gnocchis-a-la-vodka,Small,Low Carb,316,22,26,13
+2022-03-10,gnocchis-a-la-vodka,Small,High Carb,509,64,30,13
+2022-03-10,gnocchis-a-la-vodka,Small,High Protein,483,35,50,15
+2022-03-10,gnocchis-a-la-vodka,Small,Keto,344,9,25,22
+2022-03-10,gnocchis-a-la-vodka,Small,High Protein + Low Carb,423,22,49,14
+2022-03-10,gnocchis-a-la-vodka,Small,High Protein + High Carb,616,64,53,15
+2022-03-10,gnocchis-a-la-vodka,Regular,None,519,47,36,19
+2022-03-10,gnocchis-a-la-vodka,Regular,Low Carb,439,30,35,19
+2022-03-10,gnocchis-a-la-vodka,Regular,High Carb,652,76,39,19
+2022-03-10,gnocchis-a-la-vodka,Regular,High Protein,626,47,59,21
+2022-03-10,gnocchis-a-la-vodka,Regular,Keto,447,12,33,28
+2022-03-10,gnocchis-a-la-vodka,Regular,High Protein + Low Carb,546,30,58,20
+2022-03-10,gnocchis-a-la-vodka,Regular,High Protein + High Carb,759,76,62,21
+2022-03-10,gnocchis-a-la-vodka,Large,None,680,60,48,25
+2022-03-10,gnocchis-a-la-vodka,Large,Low Carb,580,38,46,25
+2022-03-10,gnocchis-a-la-vodka,Large,High Carb,813,89,51,26
+2022-03-10,gnocchis-a-la-vodka,Large,High Protein,787,60,71,27
+2022-03-10,gnocchis-a-la-vodka,Large,Keto,568,17,44,34
+2022-03-10,gnocchis-a-la-vodka,Large,High Protein + Low Carb,687,38,69,26
+2022-03-10,gnocchis-a-la-vodka,Large,High Protein + High Carb,920,89,74,27
