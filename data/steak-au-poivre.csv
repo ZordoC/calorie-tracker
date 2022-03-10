@@ -1,4 +1,4 @@
-date,name,portion,custom,calories,carbs,protein,fat 
+date,name,portion,custom,calories,carbs,protein,fat
 2022-03-10,steak-au-poivre,Small,None,428,36,25,19
 2022-03-10,steak-au-poivre,Small,Low Carb,392,28,25,18
 2022-03-10,steak-au-poivre,Small,High Carb,607,76,30,20

@@ -1,4 +1,4 @@
-date,name,portion,custom,calories,carbs,protein,fat 
+date,name,portion,custom,calories,carbs,protein,fat
 2022-03-10,gnocchis-a-la-vodka,Small,None,376,35,27,13
 2022-03-10,gnocchis-a-la-vodka,Small,Low Carb,316,22,26,13
 2022-03-10,gnocchis-a-la-vodka,Small,High Carb,509,64,30,13

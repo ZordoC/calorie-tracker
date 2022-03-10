@@ -1,4 +1,4 @@
-date,name,portion,custom,calories,carbs,protein,fat 
+date,name,portion,custom,calories,carbs,protein,fat
 2022-03-10,chicken-jambalaya,Small,None,517,35,29,27
 2022-03-10,chicken-jambalaya,Small,Low Carb,483,28,29,27
 2022-03-10,chicken-jambalaya,Small,High Carb,687,70,33,28
