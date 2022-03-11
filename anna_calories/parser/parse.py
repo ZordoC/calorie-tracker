@@ -2,16 +2,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-from datetime import date
-
-TODAY = date.today().isoformat()
-
-
-BASE_URL = "https://www.thehealthiestchoicebcn.com/"
-
-DISH_CLASS = "text-xl lg:text-2xl font-bold text-white lg:tracking-wider"
-URL = "https://www.thehealthiestchoicebcn.com/choose-your-meals"
-
+from ..utils.const import TODAY, BASE_URL, DISH_CLASS, URL
 
 def create_soup(url: str):
     data = requests.get(url).text
