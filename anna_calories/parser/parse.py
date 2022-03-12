@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-from ..utils.const import TODAY, BASE_URL, DISH_CLASS, URL
+from ..utils.const import BASE_URL, DISH_CLASS, TODAY, URL
 
 
 def create_soup(url: str):
