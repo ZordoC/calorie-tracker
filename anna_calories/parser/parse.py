@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 
 from ..utils.const import TODAY, BASE_URL, DISH_CLASS, URL
 
+
 def create_soup(url: str):
     data = requests.get(url).text
     return BeautifulSoup(data, "html.parser")
